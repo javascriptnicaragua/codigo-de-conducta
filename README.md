@@ -1,8 +1,8 @@
-# [colombia.dev] - Código de Conducta
+# [JavaScript Nicaragua] - Código de Conducta
 
 ## 1. Propósito
 
-Uno de los objetivos principales de `colombia.dev` es ser inclusiva para el 
+Uno de los objetivos principales de `JavaScript Nicaragua` es ser inclusiva para el 
 mayor número de contribuyentes, con la mayor diversidad de orígenes posibles.
 Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y
 acogedor para todos, independientemente de su sexo, orientación sexual, 
@@ -79,7 +79,7 @@ evento de pago).
 Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier 
 inquietud, por favor comunícate con un organizador del meetup lo antes posible. 
 
-Email: hola@colombia-dev.org
+Email: hola@js.ni
 
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar
 a miembros de la comunidad a contactar a la policía local o interceder para que
@@ -149,10 +149,13 @@ comunicaciones de uno-a-uno pertinentes a los negocios de la comunidad.
 
 ## 9. Contacto
 
-- hola@colombia-dev.org
-- [@colombia_dev](https://twitter.com/colombia_dev)
+- hola@js.ni
+- [@js_ni](https://twitter.com/---)
 
 ## 10. Licencia y atribución
+
+Basado en el [Codigo de Conducta de
+Colombia-Dev](https://github.com/colombia-dev/codigo-de-conducta)
 
 Este Código de Conducta se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)](http://creativecommons.org/licenses/by-sa/3.0/)
 
