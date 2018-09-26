@@ -12,7 +12,7 @@ Este código de conducta resume nuestras expectativas para todos los que
 participan en nuestra comunidad, así como las consecuencias para el 
 comportamiento inaceptable.
 
-Invitamos a todos los que participan en `colombia.dev` a que nos ayuden a crear
+Invitamos a todos los que participan en `JavaScript Nicaragua` a que nos ayuden a crear
 experiencias seguras y positivas para todos.
 
 ## 2. Ciudadanía de [Software / Cultura / Tecnología] Libre
@@ -118,7 +118,7 @@ grupos de estudio, y eventos virtuales.
     comunidad. Si un organizador crea una situación inadecuada, este será 
     juzgado con un estándar más alto.
 
-En la comunidad `colombia.dev` nos esforzamos por ir un paso más allá y cuidar 
+En la comunidad `JavaScript Nicaragua` nos esforzamos por ir un paso más allá y cuidar 
 el uno del otro. No se limite a tratar de mostrar su excelencia técnica, trate 
 también de ser la mejor persona posible. En particular, evite tocar temas 
 ofensivos o sensibles, especialmente si están fuera del tema tratado; esto muy a
@@ -131,7 +131,7 @@ resista el impulso de estar a la defensiva. Simplemente pare de hacer o decir lo
 que fuera que causó la queja y pida disculpas. Hay buenas probabilidades de que
 usted se pudo haber comunicado mejor, incluso si usted siente que fue 
 malinterpretado o injustamente acusado, - recuerde que es su responsabilidad 
-hacer que sus compañeras y compañeros de `colombia.dev` estén cómodos.
+hacer que sus compañeras y compañeros de `JavaScript Nicaragua` estén cómodos.
 
 Todo el mundo busca harmonía y todos estamos aquí, ante todo, porque queremos 
 hablar de tecnologías que nos gustan. Por lo general, la gente está dispuesta a 
